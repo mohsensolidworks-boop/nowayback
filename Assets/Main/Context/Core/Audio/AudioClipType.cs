@@ -1,0 +1,34 @@
+namespace Main.Context.Core.Audio
+{
+    public enum AudioClipType
+    {
+        None,
+        Button,
+        FootstepWood1,
+        FootstepWood2,
+        FootstepWood3,
+        AmbienceNature,
+        HomeBackgroundAmbience,
+        HomeBackgroundAmbienceAddition1,
+        HomeBackgroundAmbienceAddition2,
+        HomeBackgroundMusic1,
+        AreaAmbienceBackground,
+        CursorTap1,
+        CursorTap2,
+        CursorTap3,
+        CursorTap4,
+        CatMeow1,
+        CatMeow2,
+        CatMeow3,
+        CatMeow4,
+        CatMeow5,
+        CatMeow6,
+        CatMeow7,
+        CatMeow8,
+        CatMeow9,
+        CatMeow10,
+        CatMeow11,
+        CatMeow12,
+        CatMeow13,
+    }
+}

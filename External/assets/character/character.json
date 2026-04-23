@@ -1,0 +1,148 @@
+{ "skeleton": { "images": "C:/Users/mohse/OneDrive/Masaüstü/New folder/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "S_hand1", "bone": "root", "attachment": "S_hand1" },
+	{ "name": "S_arm", "bone": "root", "attachment": "S_arm" },
+	{ "name": "S_hand2", "bone": "root", "attachment": "S_hand2" },
+	{ "name": "Body", "bone": "root", "attachment": "Body" },
+	{ "name": "S_leg", "bone": "root", "attachment": "S_leg" },
+	{ "name": "S_shoe", "bone": "root", "attachment": "S_shoe" },
+	{ "name": "R_leg", "bone": "root", "attachment": "R_leg" },
+	{ "name": "R_shoe", "bone": "root", "attachment": "R_shoe" },
+	{ "name": "S_jaket", "bone": "root", "attachment": "S_jaket" },
+	{ "name": "S_j_yaka", "bone": "root", "attachment": "S_j_yaka" },
+	{ "name": "S_b_yaka", "bone": "root", "attachment": "S_b_yaka" },
+	{ "name": "Neck", "bone": "root", "attachment": "Neck" },
+	{ "name": "R_b_yaka", "bone": "root", "attachment": "R_b_yaka" },
+	{ "name": "R_jaket", "bone": "root", "attachment": "R_jaket" },
+	{ "name": "R_shoulder", "bone": "root", "attachment": "R_shoulder" },
+	{ "name": "R_j_yaka", "bone": "root", "attachment": "R_j_yaka" },
+	{ "name": "R_hand1", "bone": "root", "attachment": "R_hand1" },
+	{ "name": "R_hand2", "bone": "root", "attachment": "R_hand2" },
+	{ "name": "R_hand3", "bone": "root", "attachment": "R_hand3" },
+	{ "name": "R_arm", "bone": "root", "attachment": "R_arm" },
+	{ "name": "Hair1", "bone": "root", "attachment": "Hair1" },
+	{ "name": "Face", "bone": "root", "attachment": "Face" },
+	{ "name": "Mouth1", "bone": "root", "attachment": "Mouth1" },
+	{ "name": "Mouth2", "bone": "root", "attachment": "Mouth2" },
+	{ "name": "R_Eybrow", "bone": "root", "attachment": "R_Eybrow" },
+	{ "name": "S_Eybrow", "bone": "root", "attachment": "S_Eybrow" },
+	{ "name": "S_glasses", "bone": "root", "attachment": "S_glasses" },
+	{ "name": "Nose", "bone": "root", "attachment": "Nose" },
+	{ "name": "R_glasses", "bone": "root", "attachment": "R_glasses" },
+	{ "name": "Hair2", "bone": "root", "attachment": "Hair2" },
+	{ "name": "Hair_shadow", "bone": "root", "attachment": "Hair_shadow" },
+	{ "name": "Hair3", "bone": "root", "attachment": "Hair3" },
+	{ "name": "ear", "bone": "root", "attachment": "ear" },
+	{ "name": "Hair4", "bone": "root", "attachment": "Hair4" }
+],
+"skins": {
+	"default": {
+		"S_hand1": {
+			"S_hand1": { "x": 2698.5, "y": -3678, "width": 513, "height": 692 }
+		},
+		"S_arm": {
+			"S_arm": { "x": 2465, "y": -2553, "width": 922, "height": 1968 }
+		},
+		"S_hand2": {
+			"S_hand2": { "x": 2713, "y": -3589, "width": 532, "height": 626 }
+		},
+		"Body": {
+			"Body": { "x": 1708.5, "y": -1985.5, "width": 1533, "height": 2623 }
+		},
+		"S_leg": {
+			"S_leg": { "x": 2046, "y": -4045, "width": 780, "height": 1536 }
+		},
+		"S_shoe": {
+			"S_shoe": { "x": 2198, "y": -4811, "width": 860, "height": 568 }
+		},
+		"R_leg": {
+			"R_leg": { "x": 1673.5, "y": -3976.5, "width": 1557, "height": 1751 }
+		},
+		"R_shoe": {
+			"R_shoe": { "x": 1286, "y": -4943.5, "width": 704, "height": 631 }
+		},
+		"S_jaket": {
+			"S_jaket": { "x": 2299.5, "y": -2394.5, "width": 645, "height": 2019 }
+		},
+		"S_j_yaka": {
+			"S_j_yaka": { "x": 2107.5, "y": -1597.5, "width": 543, "height": 619 }
+		},
+		"S_b_yaka": {
+			"S_b_yaka": { "x": 1950.5, "y": -1583, "width": 375, "height": 528 }
+		},
+		"Neck": {
+			"Neck": { "x": 1628, "y": -1357.5, "width": 792, "height": 819 }
+		},
+		"R_b_yaka": {
+			"R_b_yaka": { "x": 1535.5, "y": -1491, "width": 677, "height": 624 }
+		},
+		"R_jaket": {
+			"R_jaket": { "x": 1270, "y": -2369, "width": 1136, "height": 2154 }
+		},
+		"R_shoulder": {
+			"R_shoulder": { "x": 866, "y": -1491, "width": 668, "height": 432 }
+		},
+		"R_j_yaka": {
+			"R_j_yaka": { "x": 1311, "y": -1459, "width": 758, "height": 782 }
+		},
+		"R_hand1": {
+			"R_hand1": { "x": 927.5, "y": -3826.5, "width": 607, "height": 653 }
+		},
+		"R_hand2": {
+			"R_hand2": { "x": 900, "y": -3778, "width": 538, "height": 502 }
+		},
+		"R_hand3": {
+			"R_hand3": { "x": 915, "y": -3770, "width": 578, "height": 496 }
+		},
+		"R_arm": {
+			"R_arm": { "x": 652.5, "y": -2639.5, "width": 945, "height": 2093 }
+		},
+		"Hair1": {
+			"Hair1": { "x": 1368.5, "y": -823, "width": 621, "height": 870 }
+		},
+		"Face": {
+			"Face": { "x": 1817.5, "y": -998, "width": 707, "height": 938 }
+		},
+		"Mouth1": {
+			"Mouth1": { "x": 1971, "y": -1186, "width": 272, "height": 88 }
+		},
+		"Mouth2": {
+			"Mouth2": { "x": 1974, "y": -1211, "width": 262, "height": 158 }
+		},
+		"R_Eybrow": {
+			"R_Eybrow": { "x": 1831, "y": -815.5, "width": 268, "height": 73 }
+		},
+		"S_Eybrow": {
+			"S_Eybrow": { "x": 2110, "y": -803, "width": 152, "height": 42 }
+		},
+		"S_glasses": {
+			"S_glasses": { "x": 2144, "y": -914.5, "width": 216, "height": 253 }
+		},
+		"Nose": {
+			"Nose": { "x": 2024.5, "y": -955, "width": 193, "height": 316 }
+		},
+		"R_glasses": {
+			"R_glasses": { "x": 1725, "y": -928.5, "width": 758, "height": 279 }
+		},
+		"Hair2": {
+			"Hair2": { "x": 1671.5, "y": -570, "width": 1057, "height": 840 }
+		},
+		"Hair_shadow": {
+			"Hair_shadow": { "x": 1876.5, "y": -629, "width": 525, "height": 256 }
+		},
+		"Hair3": {
+			"Hair3": { "x": 1916, "y": -556.5, "width": 618, "height": 351 }
+		},
+		"ear": {
+			"ear": { "x": 1421.5, "y": -962.5, "width": 193, "height": 257 }
+		},
+		"Hair4": {
+			"Hair4": { "x": 1422, "y": -688, "width": 468, "height": 414 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,133 @@
+character.png
+	size: 2992, 2999
+	filter: Linear, Linear
+	scale: 0.5
+Body
+	bounds: 2, 7, 767, 994
+	offsets: 0, 0, 767, 1312
+	rotate: 90
+D_hand
+	bounds: 998, 63, 883, 711
+Hair4
+	bounds: 2219, 11, 234, 207
+Hair_shadow
+	bounds: 2721, 90, 263, 128
+Mouth1
+	bounds: 2854, 44, 136, 44
+Mouth2
+	bounds: 2721, 9, 131, 79
+Nose
+	bounds: 2840, 2212, 97, 158
+R_Eybrow
+	bounds: 2854, 5, 134, 37
+R_arm
+	bounds: 2365, 1323, 473, 1047
+R_glasses
+	bounds: 2365, 789, 379, 140
+R_jaket
+	bounds: 1883, 220, 554, 1077
+	offsets: 14, 0, 568, 1077
+	rotate: 90
+R_shoulder
+	bounds: 1883, 2, 334, 216
+S_Eybrow
+	bounds: 2455, 7, 67, 21
+	offsets: 0, 0, 76, 21
+S_b_yaka
+	bounds: 2455, 30, 188, 264
+	rotate: 90
+S_glasses
+	bounds: 2746, 821, 108, 127
+	rotate: 90
+S_leg
+	bounds: 2365, 931, 390, 569
+	offsets: 0, 199, 390, 768
+	rotate: 90
+ear
+	bounds: 2875, 800, 97, 129
+k1
+	bounds: 2, 776, 2361, 2221
+k3
+	bounds: 2365, 2372, 591, 625
+
+character_2.png
+	size: 2990, 2209
+	filter: Linear, Linear
+	scale: 0.5
+D_body
+	bounds: 2, 832, 953, 684
+D_leg1
+	bounds: 957, 755, 761, 315
+	rotate: 90
+D_leg2
+	bounds: 2, 1518, 1332, 689
+Face
+	bounds: 2045, 950, 352, 469
+	offsets: 0, 0, 354, 469
+Hair1
+	bounds: 1274, 693, 278, 435
+	offsets: 0, 0, 311, 435
+	rotate: 90
+Hair2
+	bounds: 766, 224, 529, 420
+	rotate: 90
+Hair3
+	bounds: 2772, 1181, 309, 176
+	rotate: 90
+Neck
+	bounds: 1188, 304, 396, 387
+	offsets: 0, 23, 396, 410
+R2_leg
+	bounds: 2040, 635, 313, 364
+	offsets: 0, 0, 326, 371
+	rotate: 90
+R_b_yaka
+	bounds: 1586, 67, 339, 312
+R_hand1
+	bounds: 1711, 667, 304, 327
+	rotate: 90
+R_hand2
+	bounds: 2646, 393, 269, 251
+	rotate: 90
+R_hand3
+	bounds: 2524, 32, 289, 248
+	rotate: 90
+R_hand4
+	bounds: 1927, 22, 293, 327
+	offsets: 6, 0, 304, 327
+	rotate: 90
+R_j_yaka
+	bounds: 2406, 664, 379, 391
+R_leg
+	bounds: 2, 121, 762, 709
+	offsets: 17, 167, 779, 876
+R_shoe
+	bounds: 2018, 317, 352, 316
+S2_leg
+	bounds: 1188, 23, 279, 348
+	rotate: 90
+S_arm
+	bounds: 1336, 1746, 461, 984
+	rotate: 90
+S_hand1
+	bounds: 766, 4, 218, 346
+	offsets: 0, 0, 257, 346
+	rotate: 90
+S_hand2
+	bounds: 2256, 2, 266, 313
+S_j_yaka
+	bounds: 2372, 323, 272, 310
+S_jaket
+	bounds: 1336, 1421, 323, 1005
+	offsets: 0, 0, 323, 1010
+	rotate: 90
+S_shoe
+	bounds: 1586, 381, 430, 284
+arm_throw
+	bounds: 2343, 1492, 645, 715
+hand_throw
+	bounds: 2399, 1057, 371, 433
+k2
+	bounds: 1274, 973, 446, 769
+	offsets: 0, 0, 446, 796
+	rotate: 90

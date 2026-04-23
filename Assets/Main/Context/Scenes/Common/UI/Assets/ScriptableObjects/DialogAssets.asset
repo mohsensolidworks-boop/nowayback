@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e67f9e58b37d14f91b731f6548e82e2c, type: 3}
+  m_Name: DialogAssets
+  m_EditorClassIdentifier: 
+  <AdminDialog>k__BackingField: {fileID: 6580278970305148500, guid: f1a8a9d42e4834e9ab7f8b33e4204cf3, type: 3}
+  <PauseDialog>k__BackingField: {fileID: 1496106786030973066, guid: 8dc752280fa434ca6adbbf4e9054d305, type: 3}
+  <OptionsDialog>k__BackingField: {fileID: 6511715349815984449, guid: 180d702f3914640a9b699ec44df73214, type: 3}

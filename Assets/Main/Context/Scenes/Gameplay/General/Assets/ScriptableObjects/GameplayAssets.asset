@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b1a228cb0d584a66bc51f8703a68587, type: 3}
+  m_Name: GameplayAssets
+  m_EditorClassIdentifier: 
+  <GameplayMainCamera>k__BackingField: {fileID: 6622363772021730183, guid: 05b7a2ee6c35e4e76a0c3cf37e03b689, type: 3}
+  <GameplayUI>k__BackingField: {fileID: 156644834394908664, guid: d1926357d53714471a57f5e34ac29a93, type: 3}
+  <CatKillParticles>k__BackingField: {fileID: -4396900057158751234, guid: a26435c5c7c7a4b118dc49bb2027bf1e, type: 3}

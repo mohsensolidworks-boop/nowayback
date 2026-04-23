@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 492a23463bb8a4cf6a753fd421180093, type: 3}
+  m_Name: AudioAssets
+  m_EditorClassIdentifier: 
+  <Button>k__BackingField: {fileID: 8300000, guid: 754415722eb2643b99c5a10b22d9e267, type: 3}
+  <FootstepWood1>k__BackingField: {fileID: 8300000, guid: ab2ac8da70e488142b3bfb90dbc89eef, type: 3}
+  <FootstepWood2>k__BackingField: {fileID: 8300000, guid: f385bb3948d1c46439e42decb21b2b76, type: 3}
+  <FootstepWood3>k__BackingField: {fileID: 8300000, guid: fe560dfd525ac364dbe18e0c29d1b5d3, type: 3}
+  <AmbienceNature>k__BackingField: {fileID: 8300000, guid: 3f9b2e1ffcbf07e4094a1183978d5f60, type: 3}
+  <HomeBackgroundAmbience>k__BackingField: {fileID: 8300000, guid: 58f297c1f2a534a0b9b69eb934fc98ff, type: 3}
+  <HomeBackgroundAmbienceAddition1>k__BackingField: {fileID: 8300000, guid: d364865c04fa448769fec9a85d86a8b8, type: 3}
+  <HomeBackgroundAmbienceAddition2>k__BackingField: {fileID: 8300000, guid: 75824d32f09b545dfb73f464ffc5d155, type: 3}
+  <HomeBackgroundMusic1>k__BackingField: {fileID: 8300000, guid: ce958738cbdac445fb9082531797def4, type: 3}
+  <AreaBackgroundAmbience>k__BackingField: {fileID: 8300000, guid: 000ebd28e041748f484d96a7c53ace45, type: 3}
+  <CursorTap1>k__BackingField: {fileID: 8300000, guid: 5e4ba412f81ad438f90d25144b042649, type: 3}
+  <CursorTap2>k__BackingField: {fileID: 8300000, guid: 90c061a0e7a11424b90a4f56233085bc, type: 3}
+  <CursorTap3>k__BackingField: {fileID: 8300000, guid: 045c34258f9de436ca548bf0c6a681bd, type: 3}
+  <CursorTap4>k__BackingField: {fileID: 8300000, guid: 3aa1232fa9acd41dc80554be1650ba36, type: 3}
+  <CatMeow1>k__BackingField: {fileID: 8300000, guid: 627e10a1182fa42de800df98b92fbe18, type: 3}
+  <CatMeow2>k__BackingField: {fileID: 8300000, guid: 574bf1c74e828401da95c660057ee316, type: 3}
+  <CatMeow3>k__BackingField: {fileID: 8300000, guid: 04e3a7e700d72494c8922bb648ceb16b, type: 3}
+  <CatMeow4>k__BackingField: {fileID: 8300000, guid: a510bbc848ef543cb85b00e69b8ece87, type: 3}
+  <CatMeow5>k__BackingField: {fileID: 8300000, guid: 138823dd32f13468c9377b80c999b3dd, type: 3}
+  <CatMeow6>k__BackingField: {fileID: 8300000, guid: fa2bbfce68c6d4fee9f92e9dc3c80d20, type: 3}
+  <CatMeow7>k__BackingField: {fileID: 8300000, guid: 50786774f0f634f5f9618d7b56953816, type: 3}
+  <CatMeow8>k__BackingField: {fileID: 8300000, guid: 3260e2a024b4b4174a490552b0f32ffa, type: 3}
+  <CatMeow9>k__BackingField: {fileID: 8300000, guid: 7a720da774f084dc7bc1c11fd6a6fbdd, type: 3}
+  <CatMeow10>k__BackingField: {fileID: 8300000, guid: ce6d4054cccc345d6845ba4153001032, type: 3}
+  <CatMeow11>k__BackingField: {fileID: 8300000, guid: 7f7c7c7cf48a24d3796868f95b985953, type: 3}
+  <CatMeow12>k__BackingField: {fileID: 8300000, guid: c4922c0460dfb4b848fe5862655ae50a, type: 3}
+  <CatMeow13>k__BackingField: {fileID: 8300000, guid: 69e58cd1e70fd427b945d7b46ca78ef1, type: 3}

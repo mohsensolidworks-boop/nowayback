@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4acbb0e4c86941f5a21fddf712a37a9, type: 3}
+  m_Name: HomeAssets
+  m_EditorClassIdentifier: Assembly-CSharp::Main.Scenes.Home.General.HomeAssets
+  <HomeMainCamera>k__BackingField: {fileID: 4698637873333014858, guid: 147585b5feb824a64b60870fd0916ba8, type: 3}
+  <HomeUI>k__BackingField: {fileID: 8624225576999146967, guid: a131df22bc62e4977883218d6e16ac83, type: 3}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eb35a5fa6cf8473bb3d75822c9ea805, type: 3}
+  m_Name: CoreAssets
+  m_EditorClassIdentifier: 
+  <AudioAssets>k__BackingField: {fileID: 11400000, guid: 76ab62590c77b46be9f398c4d28c607a, type: 2}
+  <DialogAssets>k__BackingField: {fileID: 11400000, guid: ce473d07e5bcb418a8619b79edd98428, type: 2}
+  <DialogBackground>k__BackingField: {fileID: 6129792855355353, guid: 911ffc3d20f2043e38a41e4e5842855e, type: 3}
+  <PoolableAudioSourceController>k__BackingField: {fileID: 3279154344368716924, guid: 4fc0650ff0e48a24888091a67c52fab0, type: 3}
+  <CursorTexture>k__BackingField: {fileID: 2800000, guid: 04a52b89abde847d0a8f3824a7bdcf2b, type: 3}
